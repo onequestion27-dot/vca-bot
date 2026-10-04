@@ -1,6 +1,7 @@
 import asyncio
 import json
 import logging
+import os
 import random
 from aiogram import Bot, Dispatcher, F, Router
 from aiogram.filters import Command
@@ -8,8 +9,8 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup, Message
 
-# Токен твоего бота от BotFather (замени на свой)
-TOKEN = "8757858186:AAHjxwrp_z3C7Q-ZacCvI3TrU-EP_74UaTo"
+# Токен берется автоматически из настроек Render (Environment Variables)
+TOKEN = os.getenv("BOT_TOKEN")
 
 # Загружаем вопросы из JSON-файла
 with open("questions.json", "r", encoding="utf-8") as f:
