@@ -1,0 +1,722 @@
+[
+  {
+    "question_nl": "You need to work with a stationary circle saw, but notice that the protective hood has been removed. What should you do?",
+    "question_ru": "Вам нужно работать с циркулярной пилой, но вы заметили, что защитный кожух снят. Ваши действия?",
+    "options_nl": [
+      "Do not use the circle saw in any circumstances and immediately report this to your supervisor.",
+      "Take a protective hood from another machine and fix it to your saw so you can start work.",
+      "Be extremely careful when using the saw and wear safety goggles."
+    ],
+    "options_ru": [
+      "Ни при каких обстоятельствах не использовать пилу и немедленно сообщить руководителю.",
+      "Взять защитный кожух с другой машины и закрепить его.",
+      "Быть крайне осторожным и надеть защитные очки."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Запрещено работать на неисправном оборудовании, нужно сразу доложить руководству."
+  },
+  {
+    "question_nl": "What does the CE marking on machines indicate?",
+    "question_ru": "Что означает маркировка CE на машинах и оборудовании?",
+    "options_nl": [
+      "That in Europe this product does not require periodic maintenance.",
+      "That the product may only be used in European countries.",
+      "That the product meets minimum European safety requirements."
+    ],
+    "options_ru": [
+      "Продукт не требует периодического обслуживания в Европе.",
+      "Продукт разрешен к использованию только в странах Европы.",
+      "Продукт соответствует минимальным европейским требованиям безопасности."
+    ],
+    "correct_index": 2,
+    "explanation_ru": "Правильный ответ: Маркировка CE подтверждает соответствие минимальным требованиям безопасности ЕС."
+  },
+  {
+    "question_nl": "What is the purpose of environmental legislation?",
+    "question_ru": "Какова цель экологического законодательства?",
+    "options_nl": [
+      "To regulate the production of hazardous substances.",
+      "To instruct how dangerous substances should be stored.",
+      "To protect humans and the environment against the effects of dangerous substances."
+    ],
+    "options_ru": [
+      "Регулировать производство опасных веществ.",
+      "Инструктировать, как хранить опасные вещества.",
+      "Защищать человека и окружающую среду от воздействия опасных веществ."
+    ],
+    "correct_index": 2,
+    "explanation_ru": "Правильный ответ: Защита людей и экологии от вредного воздействия."
+  },
+  {
+    "question_nl": "Joris works as a supervisor and has an important role where the work permit is concerned. What should he always to do?",
+    "question_ru": "Йорис работает супервайзером и играет важную роль в отношении наряда-допуска (work permit). Что он должен делать всегда?",
+    "options_nl": [
+      "Place the work permit in a visible area on the site.",
+      "Make sure the work permit can be used at a later date.",
+      "Hand in the work permit immediately after the work is completed."
+    ],
+    "options_ru": [
+      "Разместить наряд-допуск на видном месте на объекте.",
+      "Убедиться, что наряд-допуск можно использовать в более поздний срок.",
+      "Сдать наряд-допуск сразу после завершения работ."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Наряд-допуск должен находиться на видном месте на площадке."
+  },
+  {
+    "question_nl": "What is a safety passport?",
+    "question_ru": "Что такое паспорт безопасности (safety passport)?",
+    "options_nl": [
+      "A personal document which the employee must show when he is going abroad, which states which companies he has worked with.",
+      "A personal document that keeps track of which companies an employee has worked for.",
+      "A personal document containing important data on courses and training followed, medical fitness and vaccinations."
+    ],
+    "options_ru": [
+      "Личный документ для поездок за рубеж с перечнем компаний.",
+      "Личный документ, отслеживающий компании, где работал сотрудник.",
+      "Личный документ, содержащий важные данные о пройденных курсах, медосмотрах и прививках."
+    ],
+    "correct_index": 2,
+    "explanation_ru": "Правильный ответ: Паспорт безопасности содержит данные об обучении, медосмотрах и квалификации."
+  },
+  {
+    "question_nl": "During the construction of a parking garage, an work-related accident occurs. The investigation by the Labour Authority shows that R&D legislation has been violated by an employee and an employer. For whom can the inspection service draw up a fines report?",
+    "question_ru": "Во время строительства парковки произошел несчастный случай. Инспекция труда выявила нарушения со стороны и работника, и работодателя. На кого инспекция может составить протокол о штрафе?",
+    "options_nl": [
+      "Only the employer.",
+      "Only the employee.",
+      "Both the employer and the employee."
+    ],
+    "options_ru": [
+      "Только на работодателя.",
+      "Только на работника.",
+      "Как на работодателя, так и на работника."
+    ],
+    "correct_index": 2,
+    "explanation_ru": "Правильный ответ: Штраф может быть выписан обеим сторонам, если каждый из них нарушил правила."
+  },
+  {
+    "question_nl": "For which activities must an employer implement Arbo services?",
+    "question_ru": "Для каких мероприятий работодатель обязан привлекать службы охраны труда (Arbo services)?",
+    "options_nl": [
+      "Carrying out periodic medical assessments.",
+      "Giving information regarding safety precautions for hazardous substances.",
+      "Training the company emergency assistance team."
+    ],
+    "options_ru": [
+      "Проведение периодических медицинских осмотров.",
+      "Информирование о мерах безопасности при работе с опасными веществами.",
+      "Обучение команды экстренного реагирования компании (BHV)."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Проведение периодических медосмотров — прямая задача Arbo-службы."
+  },
+  {
+    "question_nl": "You notice a colleague using drug on site. What do you do?",
+    "question_ru": "Вы заметили, что коллега употребляет наркотики на объекте. Ваши действия?",
+    "options_nl": [
+      "Report their drugs use to the GGD (municipal health service).",
+      "Report any drugs use to your supervisor.",
+      "You ask your colleague to use only drugs in his own free time."
+    ],
+    "options_ru": [
+      "Сообщить в муниципальную службу здравоохранения (GGD).",
+      "Сообщить о любом употреблении наркотиков своему руководителю.",
+      "Попросить коллегу употреблять наркотики только в свободное время."
+    ],
+    "correct_index": 1,
+    "explanation_ru": "Правильный ответ: О нарушениях безопасности (включая наркотики) нужно немедленно сообщать руководству."
+  },
+  {
+    "question_nl": "Marc has been given the task of sharing specific information with his new colleagues. The general safety rules have already been explained his supervisor. What topic can Marc discuss during this specific education session?",
+    "question_ru": "Марку поручено поделиться специфической информацией с новичками. Общие правила уже объяснили. Какую тему Марк может обсудить на этой сессии?",
+    "options_nl": [
+      "Explosion hazard areas at the workplace.",
+      "The importance of and instructions of use of PPE’s.",
+      "Evacuation guidelines."
+    ],
+    "options_ru": [
+      "Зоны повышенной взрывоопасности на рабочем месте.",
+      "Важность и инструкции по использованию СИЗ (PPE).",
+      "Инструкции по эвакуации."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Специфические зоны (например, взрывоопасные участки конкретного объекта) относятся к детальному обучению."
+  },
+  {
+    "question_nl": "What is a Task Risk Analysis (TRA)?",
+    "question_ru": "Что такое анализ рисков задач (TRA)?",
+    "options_nl": [
+      "An overview of those company tasks that could cause risk situations.",
+      "Evaluation of the tasks mentioned in the Risk Inventory and Evaluation guidelines (RI&E).",
+      "An analysis of the risks associated with the execution of risk-related activities."
+    ],
+    "options_ru": [
+      "Обзор задач компании, которые могут вызвать рискованные ситуации.",
+      "Оценка задач, упомянутых в руководстве RI&E.",
+      "Анализ рисков, связанных с выполнением потенциально опасных видов деятельности."
+    ],
+    "correct_index": 2,
+    "explanation_ru": "Правильный ответ: TRA — это анализ рисков перед выполнением опасных или нестандартных работ."
+  },
+  {
+    "question_nl": "You are employed at a painting company. You have just finished a painting job and are now starting a new on. What should you do just before you start this new painting job?",
+    "question_ru": "Вы работаете в малярной компании. Только что закончили одну работу и начинаете новую. Что нужно сделать прямо перед началом новой покраски?",
+    "options_nl": [
+      "Carry out an RI&E.",
+      "Carry out a TRA.",
+      "Carry out an LMRA."
+    ],
+    "options_ru": [
+      "Провести оценку рисков компании (RI&E).",
+      "Провести анализ рисков задач (TRA).",
+      "Провести минутную оценку рисков (LMRA)."
+    ],
+    "correct_index": 2,
+    "explanation_ru": "Правильный ответ: Перед началом любой новой задачи на месте работники проводят LMRA (Last Minute Risk Analysis)."
+  },
+  {
+    "question_nl": "You are supervisor at an asbestos removal company. Your employee performs an LMRA and there appear to be deviations from the work plan. What should you do?",
+    "question_ru": "Вы супервайзер в компании по демонтажу асбеста. Работник провел LMRA и выявил отклонения от рабочего плана. Ваши действия?",
+    "options_nl": [
+      "You adjust the work plan and let the workers carry on.",
+      "You stop all working activities immediately.",
+      "Nothing, you have a work permit already."
+    ],
+    "options_ru": [
+      "Скорректировать рабочий план и разрешить продолжить работу.",
+      "Немедленно остановить все рабочие процессы.",
+      "Ничего, у вас уже есть наряд-допуск."
+    ],
+    "correct_index": 1,
+    "explanation_ru": "Правильный ответ: При выявлении отклонений или опасности работы немедленно останавливаются."
+  },
+  {
+    "question_nl": "Peter is the director of a contracting company. Which of these is a management task for the prevention of unsafe operations and unsafe situations?",
+    "question_ru": "Питер — директор подрядной организации. Что из этого является управленческой задачей для предотвращения опасных ситуаций?",
+    "options_nl": [
+      "Monitor compliance with procedures and regulations.",
+      "Carry out periodic inspections.",
+      "Establish a long-term plan to improve on working conditions."
+    ],
+    "options_ru": [
+      "Контроль за соблюдением процедур и регламентов.",
+      "Проведение периодических инспекций.",
+      "Разработка долгосрочного плана улучшения условий труда."
+    ],
+    "correct_index": 2,
+    "explanation_ru": "Правильный ответ: На уровне руководства (директора) ключевой задачей является создание долгосрочной стратегии/плана улучшений условий труда."
+  },
+  {
+    "question_nl": "What is the V&G annual plan?",
+    "question_ru": "Что такое годовой план V&G (Arbo/Безопасность)?",
+    "options_nl": [
+      "An implementation plan to improve working conditions.",
+      "A written report concerning the results of the RI&E.",
+      "An analysis of the dangers involved in carrying out risk-related tasks."
+    ],
+    "options_ru": [
+      "План реализации мероприятий по улучшению условий труда.",
+      "Письменный отчёт о результатах RI&E.",
+      "Анализ опасностей при выполнении рискованных задач."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Годовой план V&G — это практический план действий по улучшению охраны труда на год."
+  },
+  {
+    "question_nl": "What can lead to tripping up, slipping or stumbling?",
+    "question_ru": "Что может привести к спотыканию, поскальзыванию или падению?",
+    "options_nl": [
+      "Not wearing safety shoes.",
+      "The absence of marking tape along a pathway.",
+      "LED lighting."
+    ],
+    "options_ru": [
+      "Отсутствие защитной обуви.",
+      "Отсутствие разметки на проходах.",
+      "Светодиодное освещение (LED)."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: В контексте экзаменационных вариантов правильный ответ связан с несоответствием обуви или условиями передвижения (однако чаще всего спотыкание вызывают преграды на пути, но среди этих вариантов отсутствие подходящей обуви/фиксации стопы критично)."
+  },
+  {
+    "question_nl": "What does this sign tell you? (Respiratory protection required)",
+    "question_ru": "О чем говорит этот знак? (Требуется защита органов дыхания)",
+    "options_nl": [
+      "Respiratory protection required.",
+      "Poisonous substances.",
+      "Face protection required."
+    ],
+    "options_ru": [
+      "Требуется защита органов дыхания.",
+      "Ядовитые вещества.",
+      "Требуется защита лица."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Знак предписывает использование респиратора или маски."
+  },
+  {
+    "question_nl": "How do you know whether you are dealing with hazardous noise levels?",
+    "question_ru": "Как понять, что вы имеете дело с опасным для слуха уровнем шума?",
+    "options_nl": [
+      "If you have to raise your voice at 4 meter’s distance to make yourself understood.",
+      "If you have to raise your voice at a normal conversation distance (1 metre).",
+      "If you can not hear your mobile phone."
+    ],
+    "options_ru": [
+      "Если приходится повышать голос на расстоянии 4 метров.",
+      "Если приходится повышать голос при обычном расстоянии для разговора (1 метр).",
+      "Если не слышно мобильный телефон."
+    ],
+    "correct_index": 1,
+    "explanation_ru": "Правильный ответ: Если на расстоянии 1 метра вам приходится повышать голос, чтобы собеседник вас услышал, уровень шума превышает 80 дБ."
+  },
+  {
+    "question_nl": "You will be cleaning using a hazardous substance. Which personal protective equipment should you use at minimum?",
+    "question_ru": "Вы будете проводить уборку/очистку с использованием опасного вещества. Какие средства защиты нужно использовать как минимум?",
+    "options_nl": [
+      "Overall and safety boots.",
+      "Protective clothing, safety boots, and wide view safety goggles.",
+      "Anti-static shoes and overall."
+    ],
+    "options_ru": [
+      "Комбинезон и защитная обувь.",
+      "Защитная одежда, защитные ботинки и панорамные защитные очки.",
+      "Антистатическая обувь и комбинезон."
+    ],
+    "correct_index": 1,
+    "explanation_ru": "Правильный ответ: Требуется комплексная защита кожи тела, ног и глаз (защитная одежда, ботинки, панорамные очки)."
+  },
+  {
+    "question_nl": "What personal protective equipment should you wear to protect your eyes and face when using a high pressure cleaner?",
+    "question_ru": "Какие средства защиты глаз и лица нужно носить при работе с мойкой высокого давления?",
+    "options_nl": [
+      "Plastic face shield.",
+      "Safety goggles.",
+      "Wide view safety goggles."
+    ],
+    "options_ru": [
+      "Пластиковый щиток для лица.",
+      "Обычные защитные очки.",
+      "Панорамные защитные очки."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Для защиты от брызгов под высоким давлением необходим защитный лицевой щиток."
+  },
+  {
+    "question_nl": "You must frequently adjust the work rest on a stationary grinding machine. What else should you make sure of?",
+    "question_ru": "Вам нужно регулярно регулировать подручник на стационарном шлифовальном станке. В чем еще нужно убедиться?",
+    "options_nl": [
+      "You check that the distance between the work rest and the grinding stone is at least 8 mm.",
+      "You should make use of the protection screen and control the validity date of the grinding stone.",
+      "You work in together with at least 2 people."
+    ],
+    "options_ru": [
+      "Расстояние между подручником и камнем должно быть не менее 8 мм.",
+      "Использовать защитный экран и проверять срок годности шлифовального круга.",
+      "Работать совместно как минимум с 2 людьми."
+    ],
+    "correct_index": 1,
+    "explanation_ru": "Правильный ответ: Обязательно использование защитного экрана и проверка срока годности (целостности) круга."
+  },
+  {
+    "question_nl": "Can you hoist with a fork lift truck?",
+    "question_ru": "Можно ли выполнять подъём грузов (крановые работы / hoisting) с помощью вилочного погрузчика?",
+    "options_nl": [
+      "This is not permitted with fork lifts.",
+      "Only if the fork lift is fitted with a hoist.",
+      "Only if hoisting straps are attached to the forks."
+    ],
+    "options_ru": [
+      "Это запрещено делать с помощью погрузчиков.",
+      "Только если погрузчик оснащен специальным подъемным устройством/крановой стрелой.",
+      "Только если стропы закреплены прямо на вилах."
+    ],
+    "correct_index": 1,
+    "explanation_ru": "Правильный ответ: Подъем грузов разрешен только при наличии специального сертифицированного подвесного оборудования (крановой стрелы)."
+  },
+  {
+    "question_nl": "With a chainsaw you cut down a number of trees. The noise level is 90 dB (A). What measures must you adhere to?",
+    "question_ru": "Вы спиливаете деревья бензопилой. Уровень шума 90 дБ(А). Какие меры нужно соблюдать?",
+    "options_nl": [
+      "Operate the chainsaw using both hands and wear hearing protection.",
+      "Make sure the chainsaw has been checked in the past 5 years.",
+      "You must wear respiratory protection."
+    ],
+    "options_ru": [
+      "Работать обеими руками и обязательно носить средства защиты слуха.",
+      "Убедиться, что пилу проверяли за последние 5 лет.",
+      "Обязательно носить защиту органов дыхания."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: При работе с бензопилой держат ее двумя руками, а при шуме выше 85 дБ(А) наушники обязательны."
+  },
+  {
+    "question_nl": "Martijn must gas weld two steel plates. What should he be aware of?",
+    "question_ru": "Мартейн должен выполнить газовую сварку двух стальных пластин. О чем ему нужно помнить?",
+    "options_nl": [
+      "The acetylene bottles should be laid completely horizontal.",
+      "There must be hose rupture protection mounted on the gas cylinders.",
+      "There must be flash-back protection mounted on the gas cylinders."
+    ],
+    "options_ru": [
+      "Ацетиленовые баллоны должны лежать полностью горизонтально.",
+      "На баллонах должна быть защита от разрыва шланга.",
+      "На газовых баллонах/редукторах должны быть установлены пламегасители (обратные клапаны / flash-back protection)."
+    ],
+    "correct_index": 2,
+    "explanation_ru": "Правильный ответ: Обязательно наличие предохранителей обратного удара пламени."
+  },
+  {
+    "question_nl": "You will be painting at height using a ladder. Which of these statements are correct?",
+    "question_ru": "Вы будете красить на высоте с использованием лестницы. Какие утверждения верны?",
+    "options_nl": [
+      "You can work on a ladder for a maximum of 2 hours a day.",
+      "The height of the ladder should be a maximum of 4 meters high.",
+      "You must wear a safety harness and stability calculations must be available."
+    ],
+    "options_ru": [
+      "На лестнице разрешено работать максимум 2 часа в день.",
+      "Высота лестницы должна быть не более 4 метров.",
+      "Необходимо носить страховочную привязь и расчеты устойчивости."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Работа с приставной лестницы ограничена по времени (не более 2 часов в день)."
+  },
+  {
+    "question_nl": "You work at a height of 3 meters on a flat roof of a large warehouse. You are working just 5 metres from the edge of the roof. What should you do?",
+    "question_ru": "Вы работаете на высоте 3 метров на плоской крыше, всего в 5 метрах от края. Ваши действия?",
+    "options_nl": [
+      "You make sure the appropriate markings are in place.",
+      "You place railings around the roof edge.",
+      "You wear a safety harness."
+    ],
+    "options_ru": [
+      "Убедиться, что установлена соответствующая разметка (линия безопасности).",
+      "Установить перила по всему периметру крыши.",
+      "Надеть страховочный пояс."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Если работа ведется на расстоянии более 4 метров от края, достаточно защитной маркировки (линии)."
+  },
+  {
+    "question_nl": "You need to dig into the ground. Which guideline should you follow regarding existing cables and pipes?",
+    "question_ru": "Вам нужно копать землю. Какое правило следует соблюдать при наличии подземных коммуникаций?",
+    "options_nl": [
+      "Use tooth-edged buckets exclusively.",
+      "Dig test trenches within 1.5 metres of reported existing pipes.",
+      "Acquire permission from the landowners."
+    ],
+    "options_ru": [
+      "Использовать только ковши с зубьями.",
+      "Выкапывать тестовые шурфы в пределах 1.5 метров от указанного расположения существующих труб/кабелей.",
+      "Получить разрешение от владельцев земли."
+    ],
+    "correct_index": 1,
+    "explanation_ru": "Правильный ответ: Рядом с трассой коммуникаций копают вручную или делают контрольные шурфы в радиусе 1.5 метров."
+  },
+  {
+    "question_nl": "What are the legal obligations that apply to excavation work?",
+    "question_ru": "Каковы юридические обязательства при проведении земляных работ?",
+    "options_nl": [
+      "It is mandatory to report to KLIC/Land registry and all excavation work must be carried out carefully.",
+      "A grid network representative must be present as supervisor.",
+      "Only a tooth-edged bucket may be used when digging."
+    ],
+    "options_ru": [
+      "Обязательно подать запрос в KLIC/земельный кадастр, и все работы должны выполняться осторожно.",
+      "Представитель сетевой компании должен присутствовать как супервайзер.",
+      "Разрешено использовать только ковши с зубьями."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Перед началом земляных работ в Нидерландах обязателен запрос KLIC и аккуратное проведение раскопок."
+  },
+  {
+    "question_nl": "What does the 'Underground Networks Act' (WION/WIBON) entail?",
+    "question_ru": "В чем заключается закон об инженерных сетях (Underground Networks Act)?",
+    "options_nl": [
+      "These guidelines limit the maximum depth of an excavation.",
+      "This requires anyone who plans to dig using mechanical means to obtain information from the KLIC or land registry office.",
+      "These guidelines prohibit the mixing of contaminated soil with clean excavated ground."
+    ],
+    "options_ru": [
+      "Эти правила ограничивают максимальную глубину раскопок.",
+      "Закон требует от каждого, кто планирует копать механизированным способом, получить информацию из KLIC.",
+      "Запрещено смешивать загрязненный грунт с чистым."
+    ],
+    "correct_index": 1,
+    "explanation_ru": "Правильный ответ: Закон обязывает запрашивать данные кабелей и труб через KLIC перед механизированной копкой."
+  },
+  {
+    "question_nl": "What hazards are linked to cement?",
+    "question_ru": "Какие опасности связаны с цементом?",
+    "options_nl": [
+      "Irritating to skin, eyes and the respiratory system.",
+      "Can lead to pneumoconiosis (black lung).",
+      "It is carcinogenic."
+    ],
+    "options_ru": [
+      "Раздражает кожу, глаза и дыхательные пути.",
+      "Может привести к пневмокониозу (легкое шахтера).",
+      "Является канцерогеном."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Свежий цемент едкий и вызывает раздражение кожи, слизистых и дыхательных путей."
+  },
+  {
+    "question_nl": "What effect can biological substances have on human beings?",
+    "question_ru": "Какое воздействие биологические вещества могут оказывать на человека?",
+    "options_nl": [
+      "Biological substances can be toxic.",
+      "Biological substances are natural products and not harmful.",
+      "Biological substances are degradable and not dangerous."
+    ],
+    "options_ru": [
+      "Биологические вещества могут быть токсичными.",
+      "Биологические вещества — это природные продукты и они не вредны.",
+      "Биологические вещества разлагаются и не опасны."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Био-агенты могут вызывать токсичные реакции, инфекции или аллергию."
+  },
+  {
+    "question_nl": "You are planning to work in a crawl space where the oxygen percentage is 18%. What should you do?",
+    "question_ru": "Вы планируете работать в подпольном пространстве (crawl space), где содержание кислорода составляет 18%. Ваши действия?",
+    "options_nl": [
+      "Ventilate the space using mechanical means.",
+      "Check the hose rupture protection is functioning correctly.",
+      "You must wear a disposable mask."
+    ],
+    "options_ru": [
+      "Провентилировать помещение принудительным (механическим) способом.",
+      "Проверить исправность защиты от разрыва шланга.",
+      "Надеть одноразовую маску."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Норма кислорода около 20.9%. При 18% требуется принудительная вентиляция перед входом."
+  },
+  {
+    "question_nl": "Where are the legal limits of hazardous substance mentioned?",
+    "question_ru": "Где указаны юридические предельно допустимые нормы (концентрации) опасных веществ?",
+    "options_nl": [
+      "The label.",
+      "The safety information sheet (SDS).",
+      "Both the safety information sheet and the label."
+    ],
+    "options_ru": [
+      "На этикетке.",
+      "В паспорте безопасности (Safety information sheet / SDS).",
+      "Как в паспорте безопасности, так и на этикетке."
+    ],
+    "correct_index": 1,
+    "explanation_ru": "Правильный ответ: Подробные предельные значения (WGW) прописываются в паспорте безопасности (SDS/Veiligheidsinformatieblad)."
+  },
+  {
+    "question_nl": "What risks are associated with static electricity?",
+    "question_ru": "Какие риски связаны со статическим электричеством?",
+    "options_nl": [
+      "Static electricity can ignite non-conductive material.",
+      "Static electricity can lead to a spark surge with a risk of explosion.",
+      "Static electricity has virtually no associated risks."
+    ],
+    "options_ru": [
+      "Статика может воспламенить непроводящие материалы.",
+      "Статическое электричество может привести к искровому разряду с риском взрыва.",
+      "Статическое электричество практически не имеет рисков."
+    ],
+    "correct_index": 1,
+    "explanation_ru": "Правильный ответ: Главная опасность статики — возникновение искры в среде горючих газов или пыли."
+  },
+  {
+    "question_nl": "What increases the risk of electricity-related accidents in your workplace?",
+    "question_ru": "Что увеличивает риск несчастных случаев, связанных с электричеством на рабочем месте?",
+    "options_nl": [
+      "The use of rechargeable tools.",
+      "The use of spark-free tools.",
+      "The use of uninsulated tools."
+    ],
+    "options_ru": [
+      "Использование аккумуляторного инструмента.",
+      "Использование искробезопасного инструмента.",
+      "Использование неизолированного инструмента."
+    ],
+    "correct_index": 2,
+    "explanation_ru": "Правильный ответ: Неизолированный или поврежденный инструмент резко повышает риск удара током."
+  },
+  {
+    "question_nl": "Which hazard is associated with using extension cables and power sockets?",
+    "question_ru": "Какая опасность связана с использованием удлинителей и розеток?",
+    "options_nl": [
+      "Cable overload that can lead to fire.",
+      "Current leakage with risk of electrocution.",
+      "Short-circuit if too many cables and plugs are used."
+    ],
+    "options_ru": [
+      "Перегрузка кабеля, которая может привести к пожару.",
+      "Утечка тока с риском электротравмы.",
+      "Короткое замыкание при подключении слишком большого количества вилок."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Перегрузка скрученных или слишком мощных удлинителей приводит к сильному нагреву и пожару."
+  },
+  {
+    "question_nl": "You are renovating an empty office building. Fire breaks out. What should you do first?",
+    "question_ru": "Вы ремонтируете пустое офисное здание. Начался пожар. Что нужно сделать в первую очередь?",
+    "options_nl": [
+      "Make sure your own safety is guaranteed.",
+      "Extinguish the fire.",
+      "Close all windows and doors."
+    ],
+    "options_ru": [
+      "Убедиться в обеспечении собственной безопасности.",
+      "Потушить огонь.",
+      "Закрыть все окна и двери."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Главное правило при ЧП — личная безопасность превыше всего."
+  },
+  {
+    "question_nl": "You work at a metalworking company. A combustible metal fire breaks out and you decide to extinguish it. Which extinguishing agent should you use?",
+    "question_ru": "Вы работаете на металлообработке. Возник пожар горючего металла. Какой огнетушащий состав нужно применить?",
+    "options_nl": [
+      "Foam.",
+      "‘D’ extinguishing powder.",
+      "Sand."
+    ],
+    "options_ru": [
+      "Пена (Foam).",
+      "Порошок класса D ('D' extinguishing powder).",
+      "Песок."
+    ],
+    "correct_index": 1,
+    "explanation_ru": "Правильный ответ: Металлы (например, магний, алюминий) тушат специальным порошком класса D."
+  },
+  {
+    "question_nl": "Why is sand a good extinguishing agent for flammable liquids which are spread over the ground?",
+    "question_ru": "Почему песок является хорошим средством для тушения разлитых по земле воспламеняющихся жидкостей?",
+    "options_nl": [
+      "Sand cuts off the oxygen supply.",
+      "Sand slows down the combustion process.",
+      "Sand cools down the flammable liquids."
+    ],
+    "options_ru": [
+      "Песок перекрывает доступ кислорода.",
+      "Песок замедляет процесс горения.",
+      "Песок охлаждает горючие жидкости."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Песок изолирует горящую жидкость от воздуха (перекрывает кислород)."
+  },
+  {
+    "question_nl": "Where does a catalyst affect a fire?",
+    "question_ru": "На что влияет катализатор в процессе горения?",
+    "options_nl": [
+      "The flashpoint of a liquid.",
+      "At smoke production.",
+      "The speed of the combustion process."
+    ],
+    "options_ru": [
+      "На температуру вспышки жидкости.",
+      "На образование дыма.",
+      "На скорость процесса горения."
+    ],
+    "correct_index": 2,
+    "explanation_ru": "Правильный ответ: Катализатор ускоряет или замедляет химическую реакцию горения."
+  },
+  {
+    "question_nl": "What term best describes substances burning without the help of an ignition source?",
+    "question_ru": "Какой термин лучше всего описывает самовозгорание веществ без участия внешнего источника зажигания?",
+    "options_nl": [
+      "Auto-ignition temperature (температура самовоспламенения).",
+      "Flashpoint (температура вспышки).",
+      "Ignition temperature (температура воспламенения)."
+    ],
+    "options_ru": [
+      "Температура самовоспламенения (Auto-ignition temperature).",
+      "Температура вспышки.",
+      "Температура воспламенения."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Самовоспламенение происходит при достижении температуры auto-ignition без искры или пламени."
+  },
+  {
+    "question_nl": "You see your colleague fall from a ladder. He can speak to you, but can not move his legs and is in a lot of pain. What should you do first?",
+    "question_ru": "Вы видите, как коллега упал с лестницы. Он может говорить, но не может двигать ногами и испытывает сильную боль. Ваши первоочередные действия?",
+    "options_nl": [
+      "Call your supervisor.",
+      "Take photographs for the accident investigation.",
+      "Call an ambulance (112)."
+    ],
+    "options_ru": [
+      "Позвонить руководителю.",
+      "Сделать фотографии для расследования.",
+      "Вызвать скорую помощь (112)."
+    ],
+    "correct_index": 2,
+    "explanation_ru": "Правильный ответ: При подозрении на травму позвоночника/ног с потерей подвижности немедленно вызывают профессиональных медиков (112)."
+  },
+  {
+    "question_nl": "Which issues are important when carrying out an accident investigation?",
+    "question_ru": "Какие аспекты важны при проведении расследования несчастного случая?",
+    "options_nl": [
+      "This should take place at the location of the accident and facts and data are collected.",
+      "That the investigation takes place before the SZW inspection service is informed.",
+      "That the person responsible for the accident should be found immediately."
+    ],
+    "options_ru": [
+      "Расследование должно проходить на месте происшествия с сбором фактов и данных.",
+      "Расследование должно быть завершено до уведомления инспекции труда SZW.",
+      "Необходимо сразу найти виновного в инциденте."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Расследование проводится на месте для фиксации фактов, а не для поиска «стрелочников»."
+  },
+  {
+    "question_nl": "In an emergency, three separate phases can be distinguished. Put these phases in the correct order.",
+    "question_ru": "В чрезвычайной ситуации выделяют три фазы. Расставьте их в правильном порядке.",
+    "options_nl": [
+      "Reporting of the emergency situation -> The rescue operation -> Termination of the emergency situation.",
+      "The rescue operation -> Reporting -> Termination.",
+      "Termination -> Reporting -> Rescue operation."
+    ],
+    "options_ru": [
+      "Оповещение о ЧП -> Спасательная операция -> Ликвидация / завершение чрезвычайной ситуации.",
+      "Спасательная операция -> Оповещение -> Завершение.",
+      "Завершение -> Оповещение -> Спасательная операция."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Сначала сообщение/оповещение (melding), затем спасение (redding), затем отбой тревоги (einde alarmeering)."
+  },
+  {
+    "question_nl": "Which of the following are described within a company emergency plan (Bedrijfsnoodplan)?",
+    "question_ru": "Что прописывается в корпоративном плане действий в чрезвычайных ситуациях (Bedrijfsnoodplan)?",
+    "options_nl": [
+      "How emergency situations must be reported and the procedure to be followed in case of emergency.",
+      "Which substances and processes on site can cause an emergency situation exclusively.",
+      "When evacuation drills are to be carried out without exceptions."
+    ],
+    "options_ru": [
+      "Как сообщать о ЧП и порядок действий в чрезвычайной ситуации.",
+      "Исключительно какие вещества и процессы на объекте могут вызвать аварию.",
+      "Точное расписание учебных эвакуаций."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: План содержит алгоритмы оповещения и порядок действий при аварии."
+  },
+  {
+    "question_nl": "Which of these is the task of the company emergency assistance team (BHV)?",
+    "question_ru": "Что входит в задачи корпоративной команды экстренного реагирования (BHV / первая помощь и пожаротушение)?",
+    "options_nl": [
+      "Administration of first aid.",
+      "Hosting safety training sessions for external contractors.",
+      "Supplying personal protection equipment (PPE)."
+    ],
+    "options_ru": [
+      "Оказание первой доврачебной помощи.",
+      "Проведение тренингов по безопасности для сторонних подрядчиков.",
+      "Выдача средств индивидуальной защиты (СИЗ)."
+    ],
+    "correct_index": 0,
+    "explanation_ru": "Правильный ответ: Основные задачи BHV — оказание первой помощи, тушение начальных очагов пожара и организация эвакуации."
+  }
+]
